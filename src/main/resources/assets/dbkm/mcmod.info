@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dbkm",
+  "name": "Dragon Ball Kepler",
+  "description": "A mod for Dragon Ball fans,this mod includes non-cannon and cannon features.",
+  "version": "1.0.0",
+  "mcversion": "1.11.2",
+  "url": "https://www.instagram.com/tiago_the_moon/",
+  "updateUrl": "",
+  "authorList": ["PotatoSalad"],
+  "credits": "PotatoSalad and friends",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
